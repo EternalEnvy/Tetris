@@ -1,0 +1,9 @@
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\blocks.xnb
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\blockImages.xnb
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\korobeiniki.xnb
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.exe
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\WindowsGame2.pdb
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.csprojResolveAssemblyReference.cache
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.exe
+C:\Users\Lee\documents\visual studio 2013\Projects\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Release\WindowsGame2.pdb
